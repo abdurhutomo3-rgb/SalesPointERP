@@ -127,5 +127,7 @@ _modules/*
 
 .env
 /vendor/
+.env
+/vendor/
 /writable/
 SalesPointERP.zip
